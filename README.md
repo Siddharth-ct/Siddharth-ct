@@ -3,6 +3,13 @@
 Hey everyone, I'm Siddharth, and I'm a pre-final year student at National Institute of Technology, Karnataka.
 <br>
 
+I have made some repositories related to Machine Learning/ Deep Learning concepts. If anyone want to go through it so that you can make cool projects please feel free to use it and learn new things.
+
+I will keep updating many more new repositories.
+
+Cheers!! 👊
+
+
 Connect with me!!
 
 <a href="https://www.linkedin.com/in/siddharthct">
