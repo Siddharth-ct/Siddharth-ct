@@ -7,3 +7,5 @@ Connect with me!!
 
 <a href="https://www.linkedin.com/in/siddharthct" target="_blank">LinkedIn</a>
 <a href="https://www.instagram.com/siddharth.tanksali/" target="_blank">Instagram</a>
+
+![](https://komarev.com/ghpvc/?username=Siddharth-ct&label=PROFILE+VIEWS)
