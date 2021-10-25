@@ -11,5 +11,5 @@ Connect with me!!
 ![](https://komarev.com/ghpvc/?username=Siddharth-ct&label=PROFILE+VIEWS&style=flat-square)
 
 <a href="https://www.linkedin.com/in/siddharthct">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         width=150" height="70">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
